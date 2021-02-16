@@ -1,3 +1,12 @@
-.par {
-    background-color: lightcoral;
+.stanza1{
+    background-color: rgb(48, 41, 41);
+}
+.stanza2{
+    background-color: rgb(179, 11, 11);
+}
+.stanza3{
+    background-color: rgb(19, 129, 19);
+}
+.p{
+color:white;
 }
